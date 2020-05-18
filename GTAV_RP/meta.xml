@@ -1,0 +1,4 @@
+﻿<meta>
+	<info name="GTAV_RP" type="script" />
+	<script src="bin\Debug\netcoreapp3.1\GTAV_RP.dll" />
+</meta>

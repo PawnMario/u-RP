@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GTAV_RP": {
+      "commandName": "Executable",
+      "executablePath": "C:\\RAGEMP\\server-files\\server.exe",
+      "workingDirectory": "C:\\RAGEMP\\server-files"
+    }
+  }
+}
